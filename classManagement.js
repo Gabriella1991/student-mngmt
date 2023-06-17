@@ -8,14 +8,14 @@ const school = [
       students: [
         {
           id: 1,
-          name: "Alex",
-          email: "alex@yahoo.com",
+          name: "Peter",
+          email: "peter@yahoo.com",
           city: "Berlin",
         },
         {
           id: 2,
-          name: "Max",
-          email: "max@yahoo.com",
+          name: "Marie",
+          email: "marie@yahoo.com",
           city: "Hamburg",
         },
       ],
